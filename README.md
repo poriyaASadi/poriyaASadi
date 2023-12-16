@@ -43,14 +43,10 @@
   <a href="https://instagram.com/pooruiasadi85/">
     <img src="https://img.shields.io/badge/instagram-poriya-blue?logo=instagram" />
   </a>
-    <a href="pooruiasadi85@gmail.com">
+    <a href="https://pooruiasadi85@gmail.com">
     <img src="https://img.shields.io/badge/gmail-poriya-blue?logo=gmail" />
   </a>
   <a href="https://t.me/P_o_r_iya">
     <img src="https://img.shields.io/badge/Telegram-P_o_r_iya-blue?style=flat&logo=telegram" />
   </a>
 </p>
-
-<br />
-
-⭐️ From [Sabzlearn ❤️](https://sabzlearn.ir/)
