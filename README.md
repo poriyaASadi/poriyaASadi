@@ -39,7 +39,7 @@
 
 <h2>📞 &nbsp; Connct Me </h2>
 
-<p align="center">
+<p align="left">
   <a href="https://instagram.com/pooruiasadi85/">
     <img src="https://img.shields.io/badge/instagram-poriya-blue?logo=instagram" />
   </a>
