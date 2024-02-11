@@ -1,52 +1,85 @@
-<h2>Hi There! I'm poriya asadi 🙌</h2>
+<h1 align="left">hello word :) 🖐️</h1>
 
-<h3>👨‍💻 &nbsp; About Me ...</h3>
+###
 
-- 😁 &nbsp; I am front-end developer
-- 🎓 &nbsp; I am a computer student
-- 💼 &nbsp; I am currently a junior programmer
-- 🫡 &nbsp; I am learning the front-end path
-- ✍️ &nbsp; Coding And Drinking Coffee Are My Hobby :))
+<br clear="both">
 
-<h2>🔧 &nbsp; Tech Stack</h2>
+<h4 align="left">I am a young programmer who has been interested in programming for 2 years 😋</h4>
 
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-  ![tailwindCss](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-  ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+###
 
- <h3> 🪚 &nbsp; Additional skills</h3>
+<p align="left">1- 💼 &nbsp; I am currently a junior programmer<br>2- 🫡 &nbsp; I am learning the front-end path<br>3- ✍️ &nbsp; Coding And Drinking Coffee Are My Hobby :))</p>
 
-  ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-  ![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-  ![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-  ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+###
 
- <h3> 🖥️ &nbsp; editor code ...</h3>
+<p align="left">my skills 🖥️🎓</p>
 
-  ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-  ![phpStrom](http://img.shields.io/badge/-PHPStorm-181717?style=for-the-badge&logo=phpstorm&logoColor=white)
+###
 
-<br />
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=sass" height="40" alt="sass logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+</div>
 
-<h2>⚡️ &nbsp; Github Stats</h2>
+###
 
-<a href="https://github.com/poriyaASadi">
-  <img src="https://github-readme-stats.vercel.app/api?username=poriyaASadi&show_icons=true&theme=radical" />
-</a>
+<p align="left">Common skills 🔧😶‍🌫️</p>
 
-<h2>📞 &nbsp; Connct Me </h2>
+###
 
-<p align="left">
-  <a href="https://instagram.com/pooruiasadi85/">
-    <img src="https://img.shields.io/badge/instagram-poriya-blue?logo=instagram" />
-  </a>
-    <a href="https://pooruiasadi85@gmail.com">
-    <img src="https://img.shields.io/badge/gmail-poriya-blue?logo=gmail" />
-  </a>
-  <a href="https://t.me/P_o_r_iya">
-    <img src="https://img.shields.io/badge/Telegram-P_o_r_iya-blue?style=flat&logo=telegram" />
-  </a>
-</p>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
+</div>
+
+###
+
+<p align="left">Additional skills 🧑‍💻</p>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=xd" height="40" alt="xd logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" height="40" alt="phpstorm logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=poriyaASadi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=poriyaASadi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=poriyaASadi&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/poriyaASadi/poriyaASadi/output/snake.svg" alt="Snake animation" />
+
+###
