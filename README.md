@@ -11,6 +11,13 @@
 <p align="left">1- 💼 &nbsp; I am currently a junior programmer<br>2- 🫡 &nbsp; I am learning the front-end path<br>3- ✍️ &nbsp; Coding And Drinking Coffee Are My Hobby :))</p>
 
 ###
+<h2 align="left">A little more explanation</h2>
+
+###
+
+<p align="left">In addition to the main and secondary skills, I must say that I worked with tools such as postman or node-js api and I am familiar with them.</p>
+
+###
 
 <p align="left">my skills 🖥️🎓</p>
 
@@ -73,6 +80,7 @@
 </div>
 
 ###
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=poriyaASadi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
