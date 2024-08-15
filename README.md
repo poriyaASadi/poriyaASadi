@@ -25,6 +25,8 @@
 
 <div align="left">
     <img src="https://skillicons.dev/icons?i=javascript,html,css,tailwindcss,github,sass,npm,git,gitlab,docker">
+    <img src="https://github.com/abeade/browser-websocket-client/raw/master/icons/icon_048.png?raw=true" alt="WebSocket">
+    
 <!--   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="15" /> -->
 <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
