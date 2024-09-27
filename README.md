@@ -70,7 +70,7 @@
   <img width="15" /> -->
 <!--   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
     <img width="15" /> -->
-  <img src="https://skillicons.dev/icons?i=codepen,vite,mysql,php,vue,wordpress,phpstorm,nodejs,vscode,figma,xd">
+  <img src="https://skillicons.dev/icons?i=codepen,vite,mysql,php,vue,phpstorm,nodejs,vscode,figma,xd">
 <!--     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
   <img width="15" /> -->
 <!--    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
