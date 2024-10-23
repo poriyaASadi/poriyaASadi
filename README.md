@@ -24,7 +24,7 @@
 ###
 
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=javascript,html,css,tailwindcss,github,sass,npm,git,gitlab,docker">
+    <img src="https://skillicons.dev/icons?i=javascript,vue,react,html,css,tailwindcss,github,sass,npm,git,docker">
     <img src="https://github.com/abeade/browser-websocket-client/raw/master/icons/icon_048.png?raw=true" alt="WebSocket">
     
 <!--   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
@@ -70,7 +70,7 @@
   <img width="15" /> -->
 <!--   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
     <img width="15" /> -->
-  <img src="https://skillicons.dev/icons?i=codepen,vite,mysql,php,vue,phpstorm,nodejs,vscode,figma,xd">
+  <img src="https://skillicons.dev/icons?i=codepen,vite,gitlab,mysql,php,phpstorm,nodejs,vscode,figma,xd">
 <!--     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
   <img width="15" /> -->
 <!--    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
