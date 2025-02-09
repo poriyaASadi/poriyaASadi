@@ -19,7 +19,7 @@
 
 ###
 
-<p align="left">my skills 🖥️🎓</p>
+<h1 align="left">my skills 🖥️🎓</h1>
 
 ###
 
@@ -61,7 +61,7 @@
 
 ###
 
-<p align="left">Additional skills 🧑‍💻</p>
+<h2 align="left">Additional skills 🧑‍💻</h2>
 
 ###
 
@@ -70,7 +70,7 @@
   <img width="15" /> -->
 <!--   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
     <img width="15" /> -->
-  <img src="https://skillicons.dev/icons?i=codepen,vite,gitlab,mysql,svelte,php,phpstorm,nodejs,vscode,figma,xd">
+  <img src="https://skillicons.dev/icons?i=codepen,vite,mysql,svelte,php,python,vscode,figma,xd">
 <!--     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
   <img width="15" /> -->
 <!--    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
